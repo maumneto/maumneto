@@ -1,4 +1,4 @@
-### **Oh! Hello There!** 👨‍💻
+## **Oh! Hello There!** 👨‍💻
 
 Hello ✋ I'm Maurício Neto aka [maumneto][website].
 
@@ -9,15 +9,14 @@ I'm also always looking to collaborate with other developers on their projects. 
 
 I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a survivor! 🤓
 
-#### **Facts about me:**
+### **Facts about me:**
 - I love pets 🐱
 - Maurício doesn't share food! 💀
 - So much star wars fan (first trilogy) 🎥
 - Every time is Pizza Time! 🍕
 - Trying to be a wine connoisseur 🍷
-- ...
   
-#### **Connect with me:**
+### **Connect with me:**
 
 [<img align="left" alt="personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@maumneto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -27,7 +26,7 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 <br />
 <br />
 
-#### **Languages and Tools:**
+### **Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -58,7 +57,7 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 <br/>
 ---
 
-#### **Stats:** 
+### **Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maumneto&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
