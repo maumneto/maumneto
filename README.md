@@ -24,6 +24,7 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 [<img align="left" alt="maumneto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 **or**
 
@@ -31,7 +32,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 <img align="center" alt="qrcode_linktree" width="100px" src="./qrcode_mauricio.png" />
 
-<br />
 <br />
 
 ### **Languages and Tools:**
