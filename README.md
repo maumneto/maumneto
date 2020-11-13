@@ -25,9 +25,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 <br />
 
-**or**
-<br />
-
 <img align="center" alt="qrcode_linktree" width="120px" src="./qrcode_mauricio.png" />
 
 <br />
