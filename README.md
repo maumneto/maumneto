@@ -1,13 +1,22 @@
 ## **Oh, Hello There!** 👨‍💻
 
 Hello ✋ I'm Maurício Neto aka [maumneto][website].
+<p>
+    
+    Big fan of technologies, Trying to help others through programming.
 
-I'm a big fan of new technologies, and always looking for new knowledge to improve and help others through programming. 🖖
+    I love teaching programming,
+    and I try to collaborate with other developers.
+
+    Currently a Ph.D. student in Computer Science.
+</p>
+
+<!-- I'm a big fan of new technologies, and always looking for new knowledge to improve and help others through programming. 🖖
 
 Furthermore, I love teaching programming and all the contents that surround it. 👨‍🏫
 I'm also always looking to collaborate with other developers on their projects. 💻
 
-I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a survivor! 🤓
+I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a survivor! 🤓 -->
 
 ### **Facts about me:**
 - I love pets 🐱
