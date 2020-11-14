@@ -32,7 +32,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 <img align="center" alt="qrcode linktree" width="100px" src="./QRcodeMauricio.png" />
 
 <br />
-<br />
 
 ### **Languages and Tools I use:**
 
