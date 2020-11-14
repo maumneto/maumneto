@@ -82,7 +82,7 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 
 
-<!-- [website]: https://maumneto.github.io/mauriciomoreira/
-[twitter]: https://twitter.com/maumneto
+[website]: https://maumneto.github.io/mauriciomoreira/
+<!-- [twitter]: https://twitter.com/maumneto
 [instagram]: https://instagram.com/maumneto
 [linkedin]: https://linkedin.com/in/maumneto -->
