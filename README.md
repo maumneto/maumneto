@@ -1,4 +1,4 @@
-## **Oh! Hello There!** 👨‍💻
+## **Oh, Hello There!** 👨‍💻
 
 Hello ✋ I'm Maurício Neto aka [maumneto][website].
 
@@ -18,20 +18,23 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
   
 ### **Connect with me:**
 
-[<img align="left" alt="personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@maumneto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="maumneto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="maumneto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="maumneto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
-**or**
-<br />
+<!-- **or**
+<br /> -->
 
 <img align="center" alt="qrcode linktree" width="100px" src="./QRcodeMauricio.png" />
 
-### **Languages and Tools:**
+<br />
+<br />
+
+### **Languages and Tools I use:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -49,7 +52,9 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Clang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+
+<img align="left" alt="CppLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -68,10 +73,10 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 <br />
 
-[![Maumneto's github stats](https://github-readme-stats.vercel.app/api?username=maumneto&show_icons=true&theme=cobalt&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Maumneto's github stats](https://github-readme-stats.vercel.app/api?username=maumneto&show_icons=true&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://maumneto.github.io/mauriciomoreira/
+<!-- [website]: https://maumneto.github.io/mauriciomoreira/
 [twitter]: https://twitter.com/maumneto
 [instagram]: https://instagram.com/maumneto
-[linkedin]: https://linkedin.com/in/maumneto
+[linkedin]: https://linkedin.com/in/maumneto -->
