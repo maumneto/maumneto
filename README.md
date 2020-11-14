@@ -68,7 +68,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maumneto&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 [![Maumneto's github stats](https://github-readme-stats.vercel.app/api?username=maumneto&show_icons=true&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
