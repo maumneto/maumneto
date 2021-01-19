@@ -1,6 +1,7 @@
 ## **Oh, Hello There!** 👨‍💻
 
 Hello ✋ I'm Maurício Neto aka [maumneto][website].
+
 <p>
     
     Big fan of technologies, Trying to help others through programming.
@@ -19,6 +20,9 @@ I'm also always looking to collaborate with other developers on their projects. 
 I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a survivor! 🤓 -->
 
 ### **Facts about me:**
+
+---
+
 - I love pets 🐱
 - Maurício doesn't share food! 💀
 - So much star wars fan (first trilogy) 🎥
@@ -27,20 +31,18 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
   
 ### **Connect with me:**
 
-<!-- [<img align="left" alt="personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="@maumneto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="maumneto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="maumneto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-<!-- <br />
-<br /> -->
-
-<!-- **or**
-<br /> -->
+---
 
 <img align="center" alt="qrcode linktree" width="100px" src="./QRcodeMauricio.png" />
 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maumneto@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maumneto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maumneto/)
+
 ### **Languages and Tools I use:**
+
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -82,7 +84,11 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 
 
+![Profile views](https://gpvc.arturio.dev/maumneto)
+[![GitHub followers](https://img.shields.io/github/followers/maumneto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/maumneto?tab=followers)
+
+
+
+
 [website]: https://maumneto.github.io/mauriciomoreira/
-<!-- [twitter]: https://twitter.com/maumneto
-[instagram]: https://instagram.com/maumneto
-[linkedin]: https://linkedin.com/in/maumneto -->
+
