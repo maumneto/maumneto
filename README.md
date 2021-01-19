@@ -2,6 +2,9 @@
 
 Hello ✋ I'm Maurício Neto aka [maumneto][website].
 
+![Profile views](https://gpvc.arturio.dev/maumneto)
+[![GitHub followers](https://img.shields.io/github/followers/maumneto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/maumneto?tab=followers)
+
 <p>
     
     Big fan of technologies, Trying to help others through programming.
@@ -12,16 +15,8 @@ Hello ✋ I'm Maurício Neto aka [maumneto][website].
     Currently a Ph.D. student in Computer Science.
 </p>
 
-<!-- I'm a big fan of new technologies, and always looking for new knowledge to improve and help others through programming. 🖖
-
-Furthermore, I love teaching programming and all the contents that surround it. 👨‍🏫
-I'm also always looking to collaborate with other developers on their projects. 💻
-
-I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a survivor! 🤓 -->
 
 ## **Facts about me:**
-
----
 
 - I love pets 🐱
 - Maurício doesn't share food! 💀
@@ -31,8 +26,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
   
 ## **Connect with me:**
 
----
-
 <img align="center" alt="qrcode linktree" width="100px" src="./QRcodeMauricio.png" />
 
 
@@ -41,8 +34,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maumneto/)
 
 ## **Languages and Tools I use:**
-
----
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -69,9 +60,6 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
-<br />
-<br />
-
 ## **Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maumneto&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -79,12 +67,4 @@ I'm currently a Ph.D. candidate in Computer Science. In other words,  I'm a surv
 
 [![Maumneto's github stats](https://github-readme-stats.vercel.app/api?username=maumneto&show_icons=true&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Profile views](https://gpvc.arturio.dev/maumneto)
-[![GitHub followers](https://img.shields.io/github/followers/maumneto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/maumneto?tab=followers)
-
-
-
-
 [website]: https://maumneto.github.io/mauriciomoreira/
-
