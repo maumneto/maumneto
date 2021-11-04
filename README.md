@@ -4,25 +4,6 @@ Hello ✋ I'm Maurício Neto aka [maumneto][website].
 
 ![Profile views](https://gpvc.arturio.dev/maumneto)
 [![GitHub followers](https://img.shields.io/github/followers/maumneto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/maumneto?tab=followers)
-
-<p>
-    
-    Big fan of technologies, Trying to help others through programming.
-
-    I love teaching programming,
-    and I try to collaborate with other developers.
-
-    Currently a Ph.D. student in Computer Science.
-</p>
-
-
-## **Facts about me:**
-
-- I love pets 🐱
-- Maurício doesn't share food! 💀
-- So much star wars fan (first trilogy) 🎥
-- Every time is Pizza Time! 🍕
-- Trying to be a wine connoisseur 🍷
   
 ## **Connect with me:**
 
